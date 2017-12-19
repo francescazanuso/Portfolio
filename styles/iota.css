@@ -1,0 +1,65 @@
+
+
+
+/*BRANDING*/
+
+.img-product-wire {
+  border: 1px solid #dddddd;
+}
+
+.img-product {
+  width: 100%;
+  height: auto;
+  margin-bottom: 30px;
+}
+
+
+.img-logo {
+  width: 100%;
+  height: auto;
+  margin-bottom: 30px;
+}
+
+.img-logo-guidelines {
+  width: 100%;
+  height: auto;
+  margin-bottom: 30px;
+}
+
+.img-logo-color {
+  width: 100%;
+  height: auto;
+  margin-bottom: 164px;
+}
+
+.img-ui-icons {
+  width: 100%;
+  height: auto;
+  margin-top: 96px;
+}
+
+.col-ui-icons {
+  text-align: center;
+}
+
+
+/*SECTION 2*/
+
+.background-section-intro-2 {
+  background-color: #f6f6f6;
+}
+
+.background-section-2 {
+  background-color: #f6f6f6;
+  padding-bottom: 96px;
+}
+
+.img-ui-screens {
+  width: 100%;
+  height: auto;
+}
+
+.row-ui-copy {
+  margin-top: 128px;
+  margin-bottom: 128px;
+}

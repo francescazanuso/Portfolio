@@ -1,0 +1,47 @@
+
+
+
+/*LOGO IMAGES*/
+
+.img-logo {
+  width: 100%;
+  height: auto;
+  margin-bottom: 30px;
+}
+
+.img-space {
+  width: 100%;
+  height: auto;
+  margin-bottom: 30px;
+}
+
+.background-logo {
+  margin-bottom: 200px;
+}
+
+/*SECTION 2 INTRO*/
+
+.background-section-intro-2 {
+  background-color: #f6f6f6;
+}
+
+
+/*SECTION 2 CONTENT*/
+
+.background-section-2 {
+  background-color: #f6f6f6;
+  padding-bottom: 96px;
+}
+
+.img-website-screen {
+  width: 100%;
+  height: auto;
+}
+
+.h4-secondary {
+  color: #757575;
+}
+
+.container-section-2 .row {
+  margin-bottom: 128px;
+}
