@@ -1,0 +1,42 @@
+/*BRANDING*/
+
+.img-branding {
+  width: 100%;
+  height: auto;
+  margin-bottom: 30px;
+}
+
+.row-logo-explanation {
+  margin-bottom: 96px;
+}
+
+
+.img-icons {
+  width: 100%;
+  height: auto;
+  margin-top: 100px;
+}
+
+
+.img-mockup {
+  width: 100%;
+  height: auto;
+}
+
+
+/* HOMEPAGE */
+
+.background-homepage {
+  background-color: #f6f6f6;
+  padding-bottom: 164px;
+}
+
+.row-1-homepage {
+  padding-top: 128px;
+  padding-bottom: 128px;
+}
+
+.img-homepage {
+  width: 100%;
+  height: auto;
+}
