@@ -64,7 +64,7 @@ p {
 /*CTA*/
 
 .primary-link {
-  color: #999999;
+  color: #757575;
   text-decoration: none;
 }
 
@@ -73,6 +73,24 @@ p {
   text-decoration: none;
 }
 
+.primary-link-onblack {
+  color: #757575;
+  text-decoration: none;
+}
+
+.primary-link-onblack:hover {
+  color: #ffffff;
+  text-decoration: none;
+}
+
+.link-div a {
+  display: inline;
+}
+
+.link-div h5 {
+  display: inline;
+  margin-left: 16px;
+}
 
 /*ICONS*/
 

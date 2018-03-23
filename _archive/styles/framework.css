@@ -32,7 +32,6 @@
   height: 100vh;
   position: fixed;
   z-index: 100;
-  overflow-y: scroll;
 }
 
 .background-contact-closed {
@@ -43,83 +42,32 @@
   overflow-y: hidden;
 }
 
-.col-sm-close {
-  padding-top: 32px;
-  padding-bottom: 32px;
+.row-contact {
+  padding-top: 30vh;
 }
 
-#contact-close-btn {
-  float: right;
+.col-contact-01 {
+  padding-top: 96px;
 }
 
-.email-address-div {
+.col-contact-01 div {
+  width: 100%;
+  height: 100px;
+  text-align: center;
+  border-right: 1px solid #333333;
+  padding-top: 34px;
+}
+
+
+.close-cta-icon:hover {
+  -ms-transform: rotate(45deg); /* IE 9 */
+    -webkit-transform: rotate(45deg); /* Chrome, Safari, Opera */
+    transform: rotate(45deg);
+}
+
+.copy-contact h1 {
+  color: #ffffff;
   margin-bottom: 32px;
-}
-
-.email-address-intro {
-  color: #757575;
-}
-
-.email-address {
-  color: #ffffff;
-}
-
-.contact-info {
-  margin-bottom: 32px;
-}
-
-.contact-info-copy {
-  color: #ffffff;
-}
-
-.link-div {
-  margin-bottom: 16px;
-}
-
-
-
-/*ABOUT*/
-
-.background-about {
-  background-color: #000000;
-  min-width: 100%;
-  height: 100vh;
-  position: fixed;
-  z-index: 100;
-  overflow-y: scroll;
-}
-
-.background-about-closed {
-  display: none;
-}
-
-.body-hidden {
-  overflow-y: hidden;
-}
-
-.col-sm-close {
-  padding-top: 48px;
-  padding-bottom: 48px;
-}
-
-#about-close-btn {
-  float: right;
-}
-
-.overview {
-  color: #ffffff;
-}
-
-.about-info {
-  margin-bottom: 32px;
-}
-
-.about-info-copy {
-  color: #ffffff;
-}
-
-.link-div {
-  margin-bottom: 16px;
 }
 
 
@@ -159,10 +107,6 @@
     z-index: 99;
     position: fixed;
     width: 100%;
-}
-
-.nav-up {
-  top: -70px;
 }
 
 
